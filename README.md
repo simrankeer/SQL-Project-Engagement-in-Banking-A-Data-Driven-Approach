@@ -14,4 +14,5 @@ can you verify any fraudulent transaction?
 8: Calculate the total transaction amount performed by each age group in the past year. (Age groups: 0-17, 18-30, 31-60, 60+)
 9: Find the branch with the highest average account balance.
 10: Calculate the average balance per customer at the end of each month in the last year.
+<br>
 
