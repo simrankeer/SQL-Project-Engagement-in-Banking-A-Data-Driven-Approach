@@ -2,6 +2,7 @@
 Engagement in Banking A Data Driven Approach
 <br> 
 
+<br>
 Project Questions That needs to be solved to find insights from the data:
 1: Write a query to list all customers who haven't made any transactions in the last year. How can we make them active again? Provide appropriate region.
 2: Summarize the total transaction amount per account per month.
@@ -14,5 +15,5 @@ can you verify any fraudulent transaction?
 8: Calculate the total transaction amount performed by each age group in the past year. (Age groups: 0-17, 18-30, 31-60, 60+)
 9: Find the branch with the highest average account balance.
 10: Calculate the average balance per customer at the end of each month in the last year.
-<br>
+
 
